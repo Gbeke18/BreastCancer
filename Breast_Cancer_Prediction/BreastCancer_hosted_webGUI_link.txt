@@ -1,0 +1,5 @@
+Name: Iyun Gbekeloluwa Olorunfemi
+Matric Number: 5222
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Joblib
+Live URL: GitHub Repository: https://github.com/Gbeke18/BreastCancer
